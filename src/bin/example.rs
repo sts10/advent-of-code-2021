@@ -1,4 +1,4 @@
-use advent_of_code_2020::read_by_line;
+use advent_of_code_2021::read_by_line;
 
 fn main() {
     let file_name = "inputs/day01.txt";
